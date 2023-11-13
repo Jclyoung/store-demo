@@ -1,0 +1,68 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"category": "shirts",
+			"image": "shirt1.jpg",
+			"name": "",
+			"price": 54.99,
+			"skus": [
+				{ "sku": "0156775s", "size": "s", "stock": 5 },
+				{ "sku": "0156775m", "size": "m", "stock": 1 },
+				{ "sku": "0156775l", "size": "l", "stock": 0 },
+				{ "sku": "0156775xl", "size": "xl", "stock": 3 },
+				{ "sku": "0156775xxl", "size": "xxl", "stock": 4 },
+				{ "sku": "01567751x", "size": "1x", "stock": 1 },
+				{ "sku": "01567752x", "size": "2x", "stock": 8 },
+				{ "sku": "01567753x", "size": "3x", "stock": 0 },
+				{ "sku": "01567754x", "size": "4x", "stock": 2 }
+			],
+			"description": ""
+		},
+		{
+			"id": 2,
+			"category": "shirts",
+			"image": "shirt2.jpg",
+			"name": "",
+			"price": 78.99,
+			"skus": [
+				{ "sku": "0156776s", "size": "s", "stock": 4 },
+				{ "sku": "0156776m", "size": "m", "stock": 10 },
+				{ "sku": "0156776l", "size": "l", "stock": 1 },
+				{ "sku": "0156776xl", "size": "xl", "stock": 0 },
+				{ "sku": "0156776xxl", "size": "xxl", "stock": 5 },
+				{ "sku": "01567761x", "size": "1x", "stock": 2 },
+				{ "sku": "01567762x", "size": "2x", "stock": 9 },
+				{ "sku": "01567763x", "size": "3x", "stock": 1 },
+				{ "sku": "01567764x", "size": "4x", "stock": 2 }
+			],
+			"description": ""
+		},
+		{
+			"id": 3,
+			"category": "shirts",
+			"image": "shirt3.jpg",
+			"name": "Explorer",
+			"price": 145.95,
+			"skus": [
+				{ "sku": "0156777s", "size": "s", "stock": 3 },
+				{ "sku": "0156777m", "size": "m", "stock": 6 },
+				{ "sku": "0156777l", "size": "l", "stock": 1 },
+				{ "sku": "0156777xl", "size": "xl", "stock": 7 },
+				{ "sku": "0156777xxl", "size": "xxl", "stock": 5 },
+				{ "sku": "01567771x", "size": "1x", "stock": 0 },
+				{ "sku": "01567772x", "size": "2x", "stock": 0 },
+				{ "sku": "01567773x", "size": "3x", "stock": 2 },
+				{ "sku": "01567774x", "size": "4x", "stock": 4 }
+			],
+			"description": ""
+		}
+	],
+	"shippingAddress": [
+		{
+			"id": 1,
+			"city": "",
+			"country": ""
+		}
+	]
+}
