@@ -6,7 +6,7 @@
 			"image": "shirt1.jpg",
 			"name": "",
 			"price": 54.99,
-			"skus": [
+			"data": [
 				{ "sku": "0156775s", "size": "s", "stock": 5 },
 				{ "sku": "0156775m", "size": "m", "stock": 1 },
 				{ "sku": "0156775l", "size": "l", "stock": 0 },
@@ -25,7 +25,7 @@
 			"image": "shirt2.jpg",
 			"name": "",
 			"price": 78.99,
-			"skus": [
+			"data": [
 				{ "sku": "0156776s", "size": "s", "stock": 4 },
 				{ "sku": "0156776m", "size": "m", "stock": 10 },
 				{ "sku": "0156776l", "size": "l", "stock": 1 },
@@ -44,7 +44,7 @@
 			"image": "shirt3.jpg",
 			"name": "Explorer",
 			"price": 145.95,
-			"skus": [
+			"data": [
 				{ "sku": "0156777s", "size": "s", "stock": 3 },
 				{ "sku": "0156777m", "size": "m", "stock": 6 },
 				{ "sku": "0156777l", "size": "l", "stock": 1 },
